@@ -1,0 +1,6 @@
+10 LET A = 10
+15 PRINT 1; : PRINT 89
+17 PRINT "hello world"; A: PRINT 10000
+20 LET A = (A + 10 / 10) / 2
+30 PRINT A
+40 END
